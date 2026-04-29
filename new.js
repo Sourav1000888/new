@@ -6,6 +6,9 @@
             <AbortSignal>
                 <Array>
                     'new project'
+                    <AbortController>
+                        
+                    </AbortController>
                 </Array>
             </AbortSignal>
         </AnimationPlaybackEvent>
