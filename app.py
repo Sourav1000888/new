@@ -9,3 +9,6 @@ for i in range(20):
 
 def hello():
     return {'message'  : 'hello world'}
+
+def file():
+    return {'message' : 'hello world'}
