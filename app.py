@@ -4,3 +4,7 @@ for i in range(20):
     print('hello')
 
     print('helllo world')
+
+
+def hello():
+    return {'message'  : 'hello world'}
