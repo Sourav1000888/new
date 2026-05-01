@@ -8,3 +8,6 @@ for i in range(20):
 
 def hello():
     return {'message'  : 'hello world'}
+
+def display():
+    return {'role', 'i am a ai agent'}
