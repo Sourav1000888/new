@@ -12,3 +12,8 @@ def hello():
 
 def file():
     return {'message' : 'hello world'}
+
+
+
+def ai_bot():
+    return {'message' : 'hello world'}
