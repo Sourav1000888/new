@@ -7,11 +7,6 @@ Subject: [PATCH] file
  app.py | 3 +++
  1 file changed, 3 insertions(+)
 
-diff --git a/app.py b/app.py
-index 1f96084..b021f2f 100644
---- a/app.py
-+++ b/app.py
-@@ -9,3 +9,6 @@ for i in range(20):
  
  def hello():
      return {'message'  : 'hello world'}
