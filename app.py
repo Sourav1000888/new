@@ -1,10 +1,6 @@
 for i in range(20):
     print(i*3)
 
-
-    print('helllo world')
-
-
 def hello():
     return {'message'  : 'hello world'}
 
