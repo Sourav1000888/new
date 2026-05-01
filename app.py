@@ -2,4 +2,11 @@ for i in range(20):
     print(i*3)
 
 
-    print('java')
+    print('helllo world')
+
+
+def hello():
+    return {'message'  : 'hello world'}
+
+def display():
+    return {'role', 'i am a ai agent'}
